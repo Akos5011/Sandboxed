@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style xml:id="defaultStyle" tts:fontFamily="Arial" tts:fontSize="16px" tts:color="white"/>
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:12.077s" end="00:00:14.463s" style="defaultStyle">Moje laži sve su gore</p>
+      <p begin="00:00:14.463s" end="00:00:17.113s" style="defaultStyle">Progone te noćne more</p>
+      <p begin="00:00:17.113s" end="00:00:21.894s" style="defaultStyle">Zbog mene tvoja mladost vene</p>
+      <p begin="00:00:21.894s" end="00:00:24.284s" style="defaultStyle">Noć je mlada, čeka vraga</p>
+      <p begin="00:00:24.284s" end="00:00:28.813s" style="defaultStyle">Ti me cimaš, slutiš da ćeš da se kidaš</p>
+      <p begin="00:00:28.813s" end="00:00:31.988s" style="defaultStyle">A ja na to se primam</p>
+      <p begin="00:00:31.988s" end="00:00:34.192s" style="defaultStyle">Inat tvoj večni je saveznik</p>
+      <p begin="00:00:34.192s" end="00:00:36.583s" style="defaultStyle">Ti moraš nisko da vratiš mi</p>
+      <p begin="00:00:36.583s" end="00:00:39.173s" style="defaultStyle">Koja noćas biće dežurna na satnici</p>
+      <p begin="00:00:39.173s" end="00:00:41.762s" style="defaultStyle">Ti probaj, dušo, pa mi javi</p>
+      <p begin="00:00:41.762s" end="00:00:45.149s" style="defaultStyle">Gotovo, opet lažeš sebe, kažeš da je gotovo</p>
+      <p begin="00:00:45.149s" end="00:00:47.740s" style="defaultStyle">Znaš da ne možeš bez mene, zvaćeš ponovo</p>
+      <p begin="00:00:47.740s" end="00:00:51.700s" style="defaultStyle">S njom da probaš, shvati, bilo bi ti dosadno, dosadno</p>
+      <p begin="00:00:51.700s" end="00:00:55.286s" style="defaultStyle">Otrovno, tebe radi samo divlje, neukrotivo</p>
+      <p begin="00:00:55.286s" end="00:00:57.675s" style="defaultStyle">Ne sme drugo muško čak ni da me pogleda</p>
+      <p begin="00:00:57.675s" end="00:01:02.961s" style="defaultStyle">Nismo ludi, to jе samo naša pato-patologija</p>
+      <p begin="00:01:02.961s" end="00:01:07.941s" style="defaultStyle">Patologija, a-a-a</p>
+      <p begin="00:01:07.941s" end="00:01:21.314s" style="defaultStyle">A kada ostanemo sami, ego mi nahrani</p>
+      <p begin="00:01:21.314s" end="00:01:23.703s" style="defaultStyle">Ko je ona, gdе je pošla</p>
+      <p begin="00:01:23.703s" end="00:01:27.758s" style="defaultStyle">Zna li kučka, ovde nije dobrodošla</p>
+      <p begin="00:01:27.758s" end="00:01:31.228s" style="defaultStyle">To će puno da je košta, aha</p>
+      <p begin="00:01:31.228s" end="00:01:33.622s" style="defaultStyle">Baš je slatka, suknja kratka</p>
+      <p begin="00:01:33.622s" end="00:01:37.603s" style="defaultStyle">Tebe vreba, sluti da ćeš da se predaš</p>
+      <p begin="00:01:37.603s" end="00:01:41.054s" style="defaultStyle">A zna li ona da te ne dam</p>
+      <p begin="00:01:41.054s" end="00:01:43.447s" style="defaultStyle">Inat tvoj večni je saveznik</p>
+      <p begin="00:01:43.447s" end="00:01:45.852s" style="defaultStyle">Ti moraš nisko da vratiš mi</p>
+      <p begin="00:01:45.852s" end="00:01:48.245s" style="defaultStyle">Koja noćas biće dežurna na satnici</p>
+      <p begin="00:01:48.245s" end="00:01:50.899s" style="defaultStyle">Ti probaj, dušo, pa mi javi</p>
+      <p begin="00:01:50.899s" end="00:01:54.619s" style="defaultStyle">Gotovo, opet lažeš sebe, kažeš da je gotovo</p>
+      <p begin="00:01:54.619s" end="00:01:56.743s" style="defaultStyle">Znaš da ne možeš bez mene, zvaćeš ponovo</p>
+      <p begin="00:01:56.743s" end="00:02:00.760s" style="defaultStyle">S njom da probaš, shvati, bilo bi ti dosadno, dosadno</p>
+      <p begin="00:02:00.760s" end="00:02:04.216s" style="defaultStyle">Otrovno, tebe radi samo divlje, neukrotivo</p>
+      <p begin="00:02:04.216s" end="00:02:06.868s" style="defaultStyle">Ne sme drugo muško čak ni da me pogleda</p>
+      <p begin="00:02:06.868s" end="00:02:12.449s" style="defaultStyle">Nismo ludi, to je samo naša pato-patologija</p>
+      <p begin="00:02:12.449s" end="00:02:17.227s" style="defaultStyle">Patologija, a-a-a</p>
+      <p begin="00:02:17.227s" end="00:02:29.180s" style="defaultStyle">A kada ostanemo sami, ego mi nahrani</p>
+      <p begin="00:02:29.180s" end="00:02:34.493s" style="defaultStyle">Ego mi nahrani</p>
+      <p begin="00:02:34.493s" end="00:02:38.743s" style="defaultStyle">Patologija</p>
+      <p begin="00:02:38.743s" end="00:02:41.743s" style="defaultStyle">Ego mi nahrani</p>
+    </div>
+  </body>
+</tt>

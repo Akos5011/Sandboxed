@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="10.0s" xml:id="p0" end="14.47s">Brani me, brani me od mangupa, mafije</p>
+      <p begin="14.47s" xml:id="p1" end="20.06s">Od najcrnje magije, odbrani me, udari ko grom</p>
+      <p begin="20.06s" xml:id="p2" end="25.17s">Brani me, brani me od čaršije, usta su im grob</p>
+      <p begin="25.17s" xml:id="p3" end="30.37s">Smiri te đavole što nanose, nanose mi bol</p>
+      <p begin="30.37s" xml:id="p4" end="35.43s">Ne dam da niko iz leđa mi vadi nož</p>
+      <p begin="35.43s" xml:id="p5" end="40.5s">Od tvojih riba mi je još u grlu kost</p>
+      <p begin="40.5s" xml:id="p6" end="42.93s">Alo, mali, ti mi fališ opet</p>
+      <p begin="42.93s" xml:id="p7" end="45.3s">Ljubio bi gde je bolelo me</p>
+      <p begin="45.3s" xml:id="p8" end="47.82s">Alo, mali, da si branio me</p>
+      <p begin="47.82s" xml:id="p9" end="50.43s">Branio i sve mi zabranio</p>
+      <p begin="50.43s" xml:id="p10" end="52.94s">Mogu ja bez tebe, ali dokle?</p>
+      <p begin="52.94s" xml:id="p11" end="55.64s">Ne daj mi da s tobom plačem opet</p>
+      <p begin="55.64s" xml:id="p12" end="58.01s">Alo, mali, da si branio me</p>
+      <p begin="58.01s" xml:id="p13" end="60.96s">Ne bi me ni upropastio</p>
+      <p begin="60.96s" xml:id="p14" end="62.08s">Ne, ne, ne daj</p>
+      <p begin="62.08s" xml:id="p15" end="65.96s">Ne, ne, ne daj mi da pijem ponovo</p>
+      <p begin="65.96s" xml:id="p16" end="67.19s">Ne, ne, ne daj</p>
+      <p begin="67.19s" xml:id="p17" end="70.67s">Ne, ne, ne daj, nikom nije pomoglo</p>
+      <p begin="70.67s" xml:id="p18" end="74.95s">Brani me, brani me od svatova, rakije</p>
+      <p begin="74.95s" xml:id="p19" end="80.88s">Od splavova, prangije, odbrani me, udari ko grom</p>
+      <p begin="80.88s" xml:id="p20" end="86.04s">Ne dam da niko iz leđa mi vadi nož</p>
+      <p begin="86.04s" xml:id="p21" end="90.82s">Od tvojih riba mi je još u grlu kost</p>
+      <p begin="90.82s" xml:id="p22" end="93.32s">Alo, mali, ti mi fališ opet</p>
+      <p begin="93.32s" xml:id="p23" end="95.98s">Ljubio bi gde je bolelo me</p>
+      <p begin="95.98s" xml:id="p24" end="98.47s">Alo, mali, da si branio me</p>
+      <p begin="98.47s" xml:id="p25" end="101.04s">Branio i sve mi zabranio</p>
+      <p begin="101.04s" xml:id="p26" end="103.46s">Mogu ja bez tebe, ali dokle?</p>
+      <p begin="103.46s" xml:id="p27" end="106.15s">Ne daj mi da s tobom plačem opet</p>
+      <p begin="106.15s" xml:id="p28" end="108.64s">Alo, mali, da si branio me</p>
+      <p begin="108.64s" xml:id="p29" end="111.5s">Ne bi me ni upropastio</p>
+      <p begin="111.5s" xml:id="p30" end="112.66s">Ne, ne, ne daj</p>
+      <p begin="112.66s" xml:id="p31" end="116.41s">Ne, ne, ne daj mi da pijem ponovo</p>
+      <p begin="116.41s" xml:id="p32" end="117.77s">Ne, ne, ne daj</p>
+      <p begin="117.77s" xml:id="p33" end="121.83s">Ne, ne, ne daj, nikom nije pomoglo</p>
+    </div>
+  </body>
+</tt>
