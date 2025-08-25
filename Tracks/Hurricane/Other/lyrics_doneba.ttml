@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="1.94s" xml:id="p0" end="6.16s">(O, da li, da li, da li, da li, da li, da li?)</p>
+      <p begin="6.16s" xml:id="p1" end="9.65s">(O, da li, da li, da li, da li?)</p>
+      <p begin="9.65s" xml:id="p2" end="11.94s">Daleko je more</p>
+      <p begin="11.94s" xml:id="p3" end="14.7s">A da li bi malo plivali?</p>
+      <p begin="14.7s" xml:id="p4" end="17.06s">Daleko marina</p>
+      <p begin="17.06s" xml:id="p5" end="19.61s">A da li bi se malo vezali?</p>
+      <p begin="19.61s" xml:id="p6" end="24.17s">A da li, da li, da li može bez tebe? Može</p>
+      <p begin="24.17s" xml:id="p7" end="25.43s">Al&#039; tugu krije</p>
+      <p begin="25.43s" xml:id="p8" end="28.08s">Da li (da li), da li nam kipi</p>
+      <p begin="28.08s" xml:id="p9" end="29.71s">Ljubav ta famozna?</p>
+      <p begin="29.71s" xml:id="p10" end="32.54s">Ja volim te do neba</p>
+      <p begin="32.54s" xml:id="p11" end="34.22s">Neka me slome-lome</p>
+      <p begin="34.22s" xml:id="p12" end="37.61s">Volim te do neba (ja volim te do neba)</p>
+      <p begin="37.61s" xml:id="p13" end="41.56s">Neka me popiju na eks, sve kako treba</p>
+      <p begin="41.56s" xml:id="p14" end="42.86s">Neka!</p>
+      <p begin="42.86s" xml:id="p15" end="46.45s">Neka grizu, srce je od meda</p>
+      <p begin="46.45s" xml:id="p16" end="47.71s">Neka!</p>
+      <p begin="47.71s" xml:id="p17" end="53.47s">Neka, jer te volim sve do neba</p>
+      <p begin="53.47s" xml:id="p18" end="59.62s">Jer te volim sve do neba (neba)</p>
+      <p begin="59.62s" xml:id="p19" end="62.09s">Džaba okеani</p>
+      <p begin="62.09s" xml:id="p20" end="64.84s">Preko okeana voliš me</p>
+      <p begin="64.84s" xml:id="p21" end="67.12s">Čak i da smo sami</p>
+      <p begin="67.12s" xml:id="p22" end="70.57s">Ja i ti sе vrtimo drugačije</p>
+      <p begin="70.57s" xml:id="p23" end="74.29s">O da li, da li, da li, da li</p>
+      <p begin="74.29s" xml:id="p24" end="76.5s">Može bez tebe? Može!</p>
+      <p begin="76.5s" xml:id="p25" end="79.82s">Da li nam kipi ljubav ta famozna?</p>
+      <p begin="79.82s" xml:id="p26" end="82.62s">Ja volim te do neba</p>
+      <p begin="82.62s" xml:id="p27" end="84.12s">Neka me slome-lome</p>
+      <p begin="84.12s" xml:id="p28" end="87.3s">Volim te do neba</p>
+      <p begin="87.3s" xml:id="p29" end="91.49s">Neka me popiju na eks, sve kako treba</p>
+      <p begin="91.49s" xml:id="p30" end="92.76s">Neka!</p>
+      <p begin="92.76s" xml:id="p31" end="96.36s">Neka grizu, srce je od meda</p>
+      <p begin="96.36s" xml:id="p32" end="97.84s">Neka!</p>
+      <p begin="97.84s" xml:id="p33" end="104.21s">Neka, jer te volim sve do neba</p>
+      <p begin="104.21s" xml:id="p34" end="110.27s">Volim te do neba</p>
+      <p begin="110.27s" xml:id="p35" end="114.71s">Moj si horizont, pučina i plavi nebeski svod</p>
+      <p begin="114.71s" xml:id="p36" end="119.62s">Tragovi na pesku, obris tela i noć vrela</p>
+      <p begin="119.62s" xml:id="p37" end="121.64s">(U-u, o da li, da li)</p>
+      <p begin="121.64s" xml:id="p38" end="124.04s">Može bez tebe? Može</p>
+      <p begin="124.04s" xml:id="p39" end="126.31s">Al&#039; tugu krijem, da li?</p>
+      <p begin="126.31s" xml:id="p40" end="129.85s">Da li nam kipi ljubav ta famozna?</p>
+      <p begin="129.85s" xml:id="p41" end="133.79s">Ja volim te do neba, volim te do...</p>
+      <p begin="133.79s" xml:id="p42" end="139.44s">Ja volim te do neba</p>
+      <p begin="139.44s" xml:id="p43" end="143.86s">(O, da li, da li, da li, da li, da li, da li?)</p>
+      <p begin="143.86s" xml:id="p44" end="148.85s">Ja volim te, volim te, volim te, volim te, volim te!</p>
+      <p begin="148.85s" xml:id="p45" end="151.89s">O da li, da li, da li, da li?</p>
+      <p begin="151.89s" xml:id="p46" end="154.93s">(Do neba, do neba)</p>
+      <p begin="154.93s" xml:id="p47" end="157.86s">Ja volim te do neba</p>
+      <p begin="157.86s" xml:id="p48" end="159.37s">Neka me slome-lome</p>
+      <p begin="159.37s" xml:id="p49" end="162.85s">Volim te do neba</p>
+      <p begin="162.85s" xml:id="p50" end="166.76s">Neka me popiju na eks, sve kako treba</p>
+      <p begin="166.76s" xml:id="p51" end="167.9s">Neka!</p>
+      <p begin="167.9s" xml:id="p52" end="172.07s">Neka grizu, srce je od meda</p>
+      <p begin="172.07s" xml:id="p53" end="173.03s">Neka!</p>
+      <p begin="173.03s" xml:id="p54" end="176.9s">Neka, jer te volim sve do neba</p>
+    </div>
+  </body>
+</tt>
