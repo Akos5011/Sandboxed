@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="14.22s" xml:id="p0" end="17.22s">Yeah, breakfast at Tiffany&#039;s and bottles of bubbles</p>
+      <p begin="17.22s" xml:id="p1" end="20.72s">Girls with tattoos who like getting in trouble</p>
+      <p begin="20.72s" xml:id="p2" end="23.97s">Lashes and diamonds, ATM machines</p>
+      <p begin="23.97s" xml:id="p3" end="27.97s">Buy myself all of my favorite things (Yeah)</p>
+      <p begin="27.97s" xml:id="p4" end="31.21s">Been through some bad shit, I should be a sad bitch</p>
+      <p begin="31.21s" xml:id="p5" end="34.47s">Who woulda thought it&#039;d turn me to a savage?</p>
+      <p begin="34.47s" xml:id="p6" end="37.47s">Rather be tied up with calls and not strings</p>
+      <p begin="37.47s" xml:id="p7" end="41.47s">Write my own checks like I write what I sing, yeah (Yeah)</p>
+      <p begin="41.47s" xml:id="p8" end="44.73s">My wrist, stop watchin&#039;, my neck is flossin&#039;</p>
+      <p begin="44.73s" xml:id="p9" end="47.96s">Make big deposits, my gloss is poppin&#039;</p>
+      <p begin="47.96s" xml:id="p10" end="51.47s">You like my hair? Gee, thanks, just bought it</p>
+      <p begin="51.47s" xml:id="p11" end="54.72s">I see it, I like it, I want it, I got it (Yeah)</p>
+      <p begin="54.72s" xml:id="p12" end="58.23s">I want it, I got it, I want it, I got it</p>
+      <p begin="58.23s" xml:id="p13" end="61.47s">I want it, I got it, I want it, I got it</p>
+      <p begin="61.47s" xml:id="p14" end="65.22s">You like my hair? Gee, thanks, just bought it</p>
+      <p begin="65.22s" xml:id="p15" end="68.72s">I see it, I like it, I want it, I got it (Yeah)</p>
+      <p begin="68.72s" xml:id="p16" end="71.97s">Wearing a ring, but ain&#039;t gon&#039; be no &quot;Mrs.&quot;</p>
+      <p begin="71.97s" xml:id="p17" end="75.72s">Bought matching diamonds for six of my bitches</p>
+      <p begin="75.72s" xml:id="p18" end="78.97s">I&#039;d rather spoil all my friends with my riches</p>
+      <p begin="78.97s" xml:id="p19" end="82.73s">Think retail therapy my new addiction</p>
+      <p begin="82.73s" xml:id="p20" end="86.22s">Whoever said money can&#039;t solve your problems</p>
+      <p begin="86.22s" xml:id="p21" end="89.48s">Must not have had enough money to solve &#039;em</p>
+      <p begin="89.48s" xml:id="p22" end="92.47s">They say, &quot;Which one?&quot; I say, &quot;Nah, I want all of &#039;em&quot;</p>
+      <p begin="92.47s" xml:id="p23" end="95.97s">Happiness is the same price as red-bottoms</p>
+      <p begin="95.97s" xml:id="p24" end="99.24s">My smile is beamin&#039;, my skin is gleamin&#039;</p>
+      <p begin="99.24s" xml:id="p25" end="102.97s">The way it shine, I know you&#039;ve seen it (You&#039;ve seen it)</p>
+      <p begin="102.97s" xml:id="p26" end="106.47s">I bought a crib just for the closet</p>
+      <p begin="106.47s" xml:id="p27" end="109.96s">Both his and hers, I want it, I got it, yeah</p>
+      <p begin="109.96s" xml:id="p28" end="112.98s">I want it, I got it, I want it, I got it</p>
+      <p begin="112.98s" xml:id="p29" end="116.48s">I want it, I got it, I want it, I got it (Baby)</p>
+      <p begin="116.48s" xml:id="p30" end="119.97s">You like my hair? Gee, thanks, just bought it (Oh yeah)</p>
+      <p begin="119.97s" xml:id="p31" end="123.47s">I see it, I like it, I want it, I got it (Yeah)</p>
+      <p begin="123.47s" xml:id="p32" end="125.22s">Yeah, my receipts, be lookin&#039; like phone numbers</p>
+      <p begin="125.22s" xml:id="p33" end="126.97s">If it ain&#039;t money, then wrong number</p>
+      <p begin="126.97s" xml:id="p34" end="128.72s">Black card is my business card</p>
+      <p begin="128.72s" xml:id="p35" end="130.97s">The way it be settin&#039; the tone for me</p>
+      <p begin="130.97s" xml:id="p36" end="133.72s">I don&#039;t mean to brag, but I be like, &quot;Put it in the bag, &quot; yeah</p>
+      <p begin="133.72s" xml:id="p37" end="137.23s">When you see them racks, they stacked up like my ass, yeah</p>
+      <p begin="137.23s" xml:id="p38" end="139.21s">Shoot, go from the store to the booth</p>
+      <p begin="139.21s" xml:id="p39" end="141.48s">Make it all back in one loop, give me the loot</p>
+      <p begin="141.48s" xml:id="p40" end="142.72s">Never mind, I got the juice</p>
+      <p begin="142.72s" xml:id="p41" end="143.97s">Nothing but net when we shoot</p>
+      <p begin="143.97s" xml:id="p42" end="145.22s">Look at my neck, look at my jet</p>
+      <p begin="145.22s" xml:id="p43" end="147.47s">Ain&#039;t got enough money to pay me respect</p>
+      <p begin="147.47s" xml:id="p44" end="149.24s">Ain&#039;t no budget when I&#039;m on the set</p>
+      <p begin="149.24s" xml:id="p45" end="151.22s">If I like it, then that&#039;s what I get, yeah</p>
+      <p begin="151.22s" xml:id="p46" end="154.47s">I want it, I got it, I want it, I got it (Yeah)</p>
+      <p begin="154.47s" xml:id="p47" end="157.72s">I want it, I got it, I want it, I got it (Oh yeah, yeah)</p>
+      <p begin="157.72s" xml:id="p48" end="160.98s">You like my hair? Gee, thanks, just bought it</p>
+      <p begin="160.98s" xml:id="p49" end="161.98s">I see it, I like it, I want it, I got it (Yeah)</p>
+    </div>
+  </body>
+</tt>
