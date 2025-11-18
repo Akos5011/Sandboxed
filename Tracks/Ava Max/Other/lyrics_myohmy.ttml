@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="3.65s">(Da-da-da, da-da-da-da-da-da-da)</p>
+      <p begin="3.65s" xml:id="p1" end="7.75s">(Da-da-da-da-da-da-da, da-da-da-da-da-da-da)</p>
+      <p begin="7.75s" xml:id="p2" end="9.8s">I&#039;m like my, oh, my</p>
+      <p begin="9.8s" xml:id="p3" end="11.85s">Baby, this my kinda night</p>
+      <p begin="11.85s" xml:id="p4" end="13.95s">Flashin&#039; lights up on my body</p>
+      <p begin="13.95s" xml:id="p5" end="16.0s">Feels like &#039;90s paparazzi</p>
+      <p begin="16.0s" xml:id="p6" end="17.95s">I&#039;m like my, oh, my</p>
+      <p begin="17.95s" xml:id="p7" end="20.0s">Baby, this my kinda night</p>
+      <p begin="20.0s" xml:id="p8" end="22.15s">Strangers dancin&#039; all around me</p>
+      <p begin="22.15s" xml:id="p9" end="24.2s">It&#039;s like straight out of a movie</p>
+      <p begin="24.2s" xml:id="p10" end="28.2s">Da-da-da-da-da, da-da-da-da-da-da-da</p>
+      <p begin="28.2s" xml:id="p11" end="32.4s">Da-da-da-da-da-da-da, da-da-da-da-da-da-da-da</p>
+      <p begin="32.4s" xml:id="p12" end="36.4s">Da-da-da-da-da, da-da-da-da-da-da-da</p>
+      <p begin="36.4s" xml:id="p13" end="38.55s">Flashin&#039; lights up on my body</p>
+      <p begin="38.55s" xml:id="p14" end="41.05s">Feels like &#039;90s paparazzi</p>
+      <p begin="41.05s" xml:id="p15" end="43.1s">Retro glamorous, modern fabulous</p>
+      <p begin="43.1s" xml:id="p16" end="45.15s">Point your cameras, oh, oh</p>
+      <p begin="45.15s" xml:id="p17" end="47.25s">Giving MTV, Bella and Gigi</p>
+      <p begin="47.25s" xml:id="p18" end="49.25s">Sippin&#039; on Clicquot, oh, oh</p>
+      <p begin="49.25s" xml:id="p19" end="51.35s">Real big energy radiate outta me</p>
+      <p begin="51.35s" xml:id="p20" end="57.1s">Baby, just look at me, look at me, look at me go, woah, woah (Oh)</p>
+      <p begin="57.1s" xml:id="p21" end="59.0s">I&#039;m like my, oh, my</p>
+      <p begin="59.0s" xml:id="p22" end="61.1s">Baby, this my kinda night (Yeah)</p>
+      <p begin="61.1s" xml:id="p23" end="63.1s">Flashin&#039; lights up on my body</p>
+      <p begin="63.1s" xml:id="p24" end="65.25s">Feels like &#039;90s paparazzi</p>
+      <p begin="65.25s" xml:id="p25" end="67.3s">I&#039;m like my, oh, my</p>
+      <p begin="67.3s" xml:id="p26" end="69.2s">Baby, this my kinda night</p>
+      <p begin="69.2s" xml:id="p27" end="71.35s">Strangers dancin&#039; all around me</p>
+      <p begin="71.35s" xml:id="p28" end="73.45s">It&#039;s like straight out of a movie</p>
+      <p begin="73.45s" xml:id="p29" end="77.5s">Da-da-da-da-da, da-da-da-da-da-da-da</p>
+      <p begin="77.5s" xml:id="p30" end="81.65s">(Da-da-da-da-da-da-da, da-da-da-da-da-da-da-da)</p>
+      <p begin="81.65s" xml:id="p31" end="85.75s">Da-da-da-da-da, da-da-da-da-da-da-da</p>
+      <p begin="85.75s" xml:id="p32" end="90.55s">(Da-da-da-da-da-da-da, da-da-da-da-da-da-da-da)</p>
+      <p begin="90.55s" xml:id="p33" end="92.9s">I run the table like it&#039;s Vegas</p>
+      <p begin="92.9s" xml:id="p34" end="94.9s">I&#039;m like Charlie with these angels</p>
+      <p begin="94.9s" xml:id="p35" end="98.75s">Takin&#039; pictures, feelin&#039; famous, ah</p>
+      <p begin="98.75s" xml:id="p36" end="100.5s">I feel so Kim and Khloé</p>
+      <p begin="100.5s" xml:id="p37" end="102.5s">Ain&#039;t no Photoshop, Adobe</p>
+      <p begin="102.5s" xml:id="p38" end="107.2s">Walkin&#039; like a young Naomi, ah</p>
+      <p begin="107.2s" xml:id="p39" end="109.3s">When I walk in (Mm)</p>
+      <p begin="109.3s" xml:id="p40" end="111.3s">It&#039;s electric (Mm)</p>
+      <p begin="111.3s" xml:id="p41" end="116.45s">Roll the carpet for me one more time</p>
+      <p begin="116.45s" xml:id="p42" end="118.45s">I&#039;m like my, oh, my</p>
+      <p begin="118.45s" xml:id="p43" end="120.55s">Baby, this my kinda night</p>
+      <p begin="120.55s" xml:id="p44" end="122.6s">Flashin&#039; lights up on my body</p>
+      <p begin="122.6s" xml:id="p45" end="124.75s">Feels like &#039;90s paparazzi</p>
+      <p begin="124.75s" xml:id="p46" end="126.7s">I&#039;m like my, oh, my</p>
+      <p begin="126.7s" xml:id="p47" end="128.7s">Baby, this my kinda night</p>
+      <p begin="128.7s" xml:id="p48" end="130.8s">Strangers dancin&#039; all around me</p>
+      <p begin="130.8s" xml:id="p49" end="132.9s">Feels like straight out of a movie</p>
+      <p begin="132.9s" xml:id="p50" end="136.9s">Da-da-da-da-da, da-da-da-da-da-da-da</p>
+      <p begin="136.9s" xml:id="p51" end="141.1s">Da-da-da-da-da-da-da, da-da-da-da-da-da-da-da</p>
+      <p begin="141.1s" xml:id="p52" end="145.15s">Da-da-da-da-da, da-da-da-da-da-da-da</p>
+      <p begin="145.15s" xml:id="p53" end="147.25s">Flashin&#039; lights up on my body<br />Flashin&#039; lights up on my body</p>
+      <p begin="147.25s" xml:id="p54" end="148.25s">Feels like &#039;90s paparazzi<br />Feels like &#039;90s paparazzi my body<br />Feels like &#039;90s paparazzi</p>
+    </div>
+  </body>
+</tt>
