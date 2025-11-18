@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.82s" xml:id="p0" end="6.3s">Baby Now and Then,</p>
+      <p begin="6.3s" xml:id="p1" end="8.11s">I Think About Me Now and</p>
+      <p begin="8.11s" xml:id="p2" end="10.4s">Who I Could Have been</p>
+      <p begin="10.4s" xml:id="p3" end="14.49s">And Then I Picture All the Perfect That We Lived</p>
+      <p begin="14.49s" xml:id="p4" end="17.86s">&#039;Til I Cut the Strings on Your Tiny Violin,</p>
+      <p begin="17.86s" xml:id="p5" end="20.71s">Oh, Whoa!</p>
+      <p begin="20.71s" xml:id="p6" end="23.37s">My Mind&#039;s Got a M-m-mind of Its Own Right Now,</p>
+      <p begin="23.37s" xml:id="p7" end="24.79s">And It Makes me Hate Me</p>
+      <p begin="24.79s" xml:id="p8" end="27.38s">I&#039;ll Explode Like a Dynamite If I Can&#039;t Decide,</p>
+      <p begin="27.38s" xml:id="p9" end="28.87s">Baby!</p>
+      <p begin="28.87s" xml:id="p10" end="32.23s">My Head and my Heart are Torturing Me,</p>
+      <p begin="32.23s" xml:id="p11" end="33.18s">yea-a-h~</p>
+      <p begin="33.18s" xml:id="p12" end="35.2s">&#039;Cause my Mind, and your Arms,</p>
+      <p begin="35.2s" xml:id="p13" end="36.33s">I Go to Extremes,</p>
+      <p begin="36.33s" xml:id="p14" end="37.08s">yea-ah~</p>
+      <p begin="37.08s" xml:id="p15" end="38.87s">When Angels Tell me Run,</p>
+      <p begin="38.87s" xml:id="p16" end="40.37s">And Monsters Call it Love,</p>
+      <p begin="40.37s" xml:id="p17" end="41.48s">Ohh...</p>
+      <p begin="41.48s" xml:id="p18" end="43.43s">My head And my heart,</p>
+      <p begin="43.43s" xml:id="p19" end="44.55s">Are Caught In-Between,</p>
+      <p begin="44.55s" xml:id="p20" end="45.17s">yeah...</p>
+      <p begin="45.17s" xml:id="p21" end="47.58s">La-la-la-la-la,</p>
+      <p begin="47.58s" xml:id="p22" end="49.38s">La-la-la-la-la-la-la,</p>
+      <p begin="49.38s" xml:id="p23" end="51.83s">La-la-la-la-la,</p>
+      <p begin="51.83s" xml:id="p24" end="53.55s">La-la-la-la-la-la-la,</p>
+      <p begin="53.55s" xml:id="p25" end="55.77s">La-la-la-la-la,</p>
+      <p begin="55.77s" xml:id="p26" end="57.7s">La-la-la-la-la-la-la,</p>
+      <p begin="57.7s" xml:id="p27" end="60.06s">La-la-la-la-la,</p>
+      <p begin="60.06s" xml:id="p28" end="61.92s">La-la-la-la-la-la-la...</p>
+      <p begin="61.92s" xml:id="p29" end="64.18s">Tell Me Yes or No,</p>
+      <p begin="64.18s" xml:id="p30" end="65.52s">Asking The Heavens:</p>
+      <p begin="65.52s" xml:id="p31" end="68.27s">&quot;Should I Stay or Should I Go?&quot;</p>
+      <p begin="68.27s" xml:id="p32" end="71.9s">You Held my Hand When I had Nothing Left To Hold,</p>
+      <p begin="71.9s" xml:id="p33" end="74.99s">And Now I&#039;m On a Roll...</p>
+      <p begin="74.99s" xml:id="p34" end="78.48s">Oo-ooh, ooooh...</p>
+      <p begin="78.48s" xml:id="p35" end="80.28s">My Mind&#039;s Got a M-m-mind</p>
+      <p begin="80.28s" xml:id="p36" end="81.24s">Of Its Own Right Now,</p>
+      <p begin="81.24s" xml:id="p37" end="82.63s">And It Makes me Hate me...</p>
+      <p begin="82.63s" xml:id="p38" end="84.33s">I&#039;ll Explode like a Dynamite</p>
+      <p begin="84.33s" xml:id="p39" end="85.33s">If I Can&#039;t Decide,</p>
+      <p begin="85.33s" xml:id="p40" end="86.86s">Baby-y-y~!</p>
+      <p begin="86.86s" xml:id="p41" end="88.84s">My Head and My Heart,</p>
+      <p begin="88.84s" xml:id="p42" end="90.06s">Are Torturing Me,</p>
+      <p begin="90.06s" xml:id="p43" end="91.0s">yea-a-ah...</p>
+      <p begin="91.0s" xml:id="p44" end="93.08s">&#039;Cause My Mind, and your Arms,</p>
+      <p begin="93.08s" xml:id="p45" end="94.38s">I Go to Extremes,</p>
+      <p begin="94.38s" xml:id="p46" end="94.85s">yeah!</p>
+      <p begin="94.85s" xml:id="p47" end="96.81s">When Angels Tell me Run,</p>
+      <p begin="96.81s" xml:id="p48" end="98.16s">And Monsters Call It Love,</p>
+      <p begin="98.16s" xml:id="p49" end="99.37s">Ooo-oh!</p>
+      <p begin="99.37s" xml:id="p50" end="101.3s">My Head and My Heart</p>
+      <p begin="101.3s" xml:id="p51" end="102.28s">Are Caught In-Between,</p>
+      <p begin="102.28s" xml:id="p52" end="103.0s">yeah</p>
+      <p begin="103.0s" xml:id="p53" end="105.4s">La-la-la-la-la,</p>
+      <p begin="105.4s" xml:id="p54" end="107.49s">La-la-la-la-la-la-la,</p>
+      <p begin="107.49s" xml:id="p55" end="109.55s">La-la-la-la-la,</p>
+      <p begin="109.55s" xml:id="p56" end="111.52s">La-la-la-la-la-la-la,</p>
+      <p begin="111.52s" xml:id="p57" end="113.57s">La-la-la-la-la,</p>
+      <p begin="113.57s" xml:id="p58" end="115.5s">La-la-la-la-la-la-la,</p>
+      <p begin="115.5s" xml:id="p59" end="117.96s">La-la-la-la-la,</p>
+      <p begin="117.96s" xml:id="p60" end="120.36s">La-la-la-la-la-la-la...</p>
+      <p begin="120.36s" xml:id="p61" end="124.39s">I&#039;m Standin&#039; At The Crossroads...</p>
+      <p begin="124.39s" xml:id="p62" end="128.57s">I Cross my Heart With X and O&#039;s,</p>
+      <p begin="128.57s" xml:id="p63" end="132.21s">Which Way Leads To Forever?</p>
+      <p begin="132.21s" xml:id="p64" end="132.69s">Whoa-Ooh...</p>
+      <p begin="132.69s" xml:id="p65" end="133.12s">Ooo-ooh...</p>
+      <p begin="133.12s" xml:id="p66" end="133.73s">Oooh...</p>
+      <p begin="133.73s" xml:id="p67" end="134.86s">Oh-oh, oooh!!!</p>
+      <p begin="134.86s" xml:id="p68" end="136.54s">God Only Knows!!!</p>
+      <p begin="136.54s" xml:id="p69" end="138.53s">My Head and My Heart,</p>
+      <p begin="138.53s" xml:id="p70" end="139.73s">Are Torturing Me,</p>
+      <p begin="139.73s" xml:id="p71" end="140.59s">yea-a-ah~</p>
+      <p begin="140.59s" xml:id="p72" end="141.69s">&#039;Cause My Mind,</p>
+      <p begin="141.69s" xml:id="p73" end="142.75s">And your arms,</p>
+      <p begin="142.75s" xml:id="p74" end="143.66s">I Go to Extremes,</p>
+      <p begin="143.66s" xml:id="p75" end="144.28s">yeah...</p>
+      <p begin="144.28s" xml:id="p76" end="146.28s">When Angels Tell Me Run,</p>
+      <p begin="146.28s" xml:id="p77" end="147.83s">And Monsters Call It Love,</p>
+      <p begin="147.83s" xml:id="p78" end="149.13s">Oh-oooh...</p>
+      <p begin="149.13s" xml:id="p79" end="151.08s">My Head (My head!) and my Heart (My Hea-a-art~)</p>
+      <p begin="151.08s" xml:id="p80" end="152.07s">Are Caught In-Between (Betwe-e-en~)</p>
+      <p begin="152.07s" xml:id="p81" end="152.9s">yeah!</p>
+      <p begin="152.9s" xml:id="p82" end="155.09s">La-la-la-la-la, (Oo-oooh)</p>
+      <p begin="155.09s" xml:id="p83" end="157.05s">La-la-la-la-la-la-la,</p>
+      <p begin="157.05s" xml:id="p84" end="159.35s">La-la-la-la-la (Oh-ooh...)</p>
+      <p begin="159.35s" xml:id="p85" end="161.36s">La-la-la-la-la-la-la,</p>
+      <p begin="161.36s" xml:id="p86" end="163.65s">La-la-la-la-la, (La, la-la-la, la-la-la, la-la-la, Oooh...)</p>
+      <p begin="163.65s" xml:id="p87" end="165.47s">La-la-la-la-la-la-la,</p>
+      <p begin="165.47s" xml:id="p88" end="167.65s">La-la-la-la-la (Oh, yeah)<br />La-la-la-la-la (Oh, yeah)</p>
+      <p begin="167.65s" xml:id="p89" end="168.65s">La-la-la-la-la-la-la-la...a-la-la-la-la-la-la,<br />La-la-la-la-la-la-la-la.....</p>
+    </div>
+  </body>
+</tt>

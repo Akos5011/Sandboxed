@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" xml:id="p0" end="3.9s">If all of the kings had their queens on the throne</p>
+      <p begin="3.9s" xml:id="p1" end="7.9s">We would pop champagne and raise a toast</p>
+      <p begin="7.9s" xml:id="p2" end="11.36s">To all of the queens who are fighting alone</p>
+      <p begin="11.36s" xml:id="p3" end="16.61s">Baby, you&#039;re not dancin&#039; on your own</p>
+      <p begin="16.61s" xml:id="p4" end="20.34s">Can&#039;t live without me, you wanna&#039; but you can&#039;t, nah-nah-nah</p>
+      <p begin="20.34s" xml:id="p5" end="24.47s">Think it&#039;s funny, but honey, can&#039;t run this show on your own</p>
+      <p begin="24.47s" xml:id="p6" end="28.17s">I can feel my body shake, there&#039;s only so much I can take</p>
+      <p begin="28.17s" xml:id="p7" end="32.46s">I&#039;ll show you how a real queen behaves, oh</p>
+      <p begin="32.46s" xml:id="p8" end="36.04s">No damsel in distress, don&#039;t need to save me</p>
+      <p begin="36.04s" xml:id="p9" end="39.88s">Once I start breathin&#039; fire, you can&#039;t tame me</p>
+      <p begin="39.88s" xml:id="p10" end="43.64s">And you might think I&#039;m weak without a sword</p>
+      <p begin="43.64s" xml:id="p11" end="46.6s">But if I had one, it&#039;d be bigger than yours</p>
+      <p begin="46.6s" xml:id="p12" end="50.33s">If all of the kings had their queens on the throne</p>
+      <p begin="50.33s" xml:id="p13" end="53.79s">We would pop champagne and raise a toast</p>
+      <p begin="53.79s" xml:id="p14" end="57.1s">To all of the queens who are fighting alone</p>
+      <p begin="57.1s" xml:id="p15" end="61.04s">Baby, you&#039;re not dancin&#039; on your own</p>
+      <p begin="61.04s" xml:id="p16" end="64.52s">Disobey me, then baby, it&#039;s off with your head</p>
+      <p begin="64.52s" xml:id="p17" end="69.38s">Gonna&#039; change it and make it a world you won&#039;t forget</p>
+      <p begin="69.38s" xml:id="p18" end="73.12s">No damsel in distress, don&#039;t need to save me</p>
+      <p begin="73.12s" xml:id="p19" end="76.76s">Once I start breathin&#039; fire, you can&#039;t tame me</p>
+      <p begin="76.76s" xml:id="p20" end="80.43s">And you might think I&#039;m weak without a sword</p>
+      <p begin="80.43s" xml:id="p21" end="83.6s">But I&#039;m stronger than I ever was before</p>
+      <p begin="83.6s" xml:id="p22" end="86.69s">If all of the kings had their queens on the throne</p>
+      <p begin="86.69s" xml:id="p23" end="90.66s">We would pop champagne and raise a toast</p>
+      <p begin="90.66s" xml:id="p24" end="93.97s">To all of the queens who are fighting alone</p>
+      <p begin="93.97s" xml:id="p25" end="113.28s">Baby, you&#039;re not dancin&#039; on your own</p>
+      <p begin="113.28s" xml:id="p26" end="116.94s">In chess, the king can move one space at a time</p>
+      <p begin="116.94s" xml:id="p27" end="120.63s">But queens are free to go wherever they like</p>
+      <p begin="120.63s" xml:id="p28" end="124.28s">You get too close, you&#039;ll get a royalty high</p>
+      <p begin="124.28s" xml:id="p29" end="129.83s">So breathe it in to feel alive</p>
+      <p begin="129.83s" xml:id="p30" end="132.86s">If all of the kings had their queens on the throne</p>
+      <p begin="132.86s" xml:id="p31" end="136.87s">We would pop champagne and raise a toast</p>
+      <p begin="136.87s" xml:id="p32" end="140.28s">To all of the queens who are fighting alone</p>
+      <p begin="140.28s" xml:id="p33" end="141.28s">Baby, you&#039;re not dancin&#039; on your own on your own</p>
+    </div>
+  </body>
+</tt>

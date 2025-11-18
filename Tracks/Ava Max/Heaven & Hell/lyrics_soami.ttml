@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="13.6s" xml:id="p0" end="16.52s">Do you ever feel like a misfit</p>
+      <p begin="16.52s" xml:id="p1" end="20.38s">Everything inside you is dark and twisted</p>
+      <p begin="20.38s" xml:id="p2" end="23.97s">Oh but it&#039;s okay to be different</p>
+      <p begin="23.97s" xml:id="p3" end="25.63s">&#039;Cause baby so am I</p>
+      <p begin="25.63s" xml:id="p4" end="28.61s">So am I so am I so am I I I I I</p>
+      <p begin="28.61s" xml:id="p5" end="32.43s">Can you hear the whispers all across the room</p>
+      <p begin="32.43s" xml:id="p6" end="36.19s">You feel her eyes all over you like cheap perfume</p>
+      <p begin="36.19s" xml:id="p7" end="39.59s">You&#039;re beautiful but misunderstood</p>
+      <p begin="39.59s" xml:id="p8" end="43.29s">So why you tryna be just like the neighborhood</p>
+      <p begin="43.29s" xml:id="p9" end="46.93s">I can see it I know what you&#039;re feelin&#039;</p>
+      <p begin="46.93s" xml:id="p10" end="50.63s">So let me tell you &#039;bout my little secret</p>
+      <p begin="50.63s" xml:id="p11" end="53.58s">I&#039;m a little crazy underneath this</p>
+      <p begin="53.58s" xml:id="p12" end="56.73s">Underneath this</p>
+      <p begin="56.73s" xml:id="p13" end="60.43s">Do you ever feel like a misfit</p>
+      <p begin="60.43s" xml:id="p14" end="64.48s">Everything inside you is dark and twisted</p>
+      <p begin="64.48s" xml:id="p15" end="67.99s">Oh but it&#039;s okay to be different</p>
+      <p begin="67.99s" xml:id="p16" end="69.66s">&#039;Cause baby so am I</p>
+      <p begin="69.66s" xml:id="p17" end="72.57s">So am I so am I so am I</p>
+      <p begin="72.57s" xml:id="p18" end="75.43s">Do you ever feel like an outcast</p>
+      <p begin="75.43s" xml:id="p19" end="78.98s">You don&#039;t have to fit into the format</p>
+      <p begin="78.98s" xml:id="p20" end="82.86s">Oh but it&#039;s okay to be different</p>
+      <p begin="82.86s" xml:id="p21" end="84.72s">&#039;Cause baby so am I</p>
+      <p begin="84.72s" xml:id="p22" end="87.85s">So am I so am I so am I I I I I</p>
+      <p begin="87.85s" xml:id="p23" end="91.79s">Oh so dressed so fancy like Sid and Nancy</p>
+      <p begin="91.79s" xml:id="p24" end="92.37s">Yeah</p>
+      <p begin="92.37s" xml:id="p25" end="95.14s">Walkin&#039; Killer Queen gotta keep &#039;em guessin&#039;</p>
+      <p begin="95.14s" xml:id="p26" end="97.48s">So baby come pass me a lighter</p>
+      <p begin="97.48s" xml:id="p27" end="99.75s">We&#039;re gonna leave &#039;em on fire</p>
+      <p begin="99.75s" xml:id="p28" end="102.11s">We&#039;re the sinners and the blessings</p>
+      <p begin="102.11s" xml:id="p29" end="105.48s">I can see it I know what you&#039;re feelin&#039;</p>
+      <p begin="105.48s" xml:id="p30" end="109.23s">So let me tell you &#039;bout my little secret</p>
+      <p begin="109.23s" xml:id="p31" end="112.37s">I&#039;m a little crazy underneath this</p>
+      <p begin="112.37s" xml:id="p32" end="115.6s">Underneath this ooh</p>
+      <p begin="115.6s" xml:id="p33" end="119.19s">Do you ever feel like a misfit</p>
+      <p begin="119.19s" xml:id="p34" end="123.22s">Everything inside you is dark and twisted</p>
+      <p begin="123.22s" xml:id="p35" end="126.88s">Oh but it&#039;s okay to be different</p>
+      <p begin="126.88s" xml:id="p36" end="128.87s">&#039;Cause baby so am I</p>
+      <p begin="128.87s" xml:id="p37" end="131.38s">So am I so am I so am I</p>
+      <p begin="131.38s" xml:id="p38" end="134.45s">Do you ever feel like an outcast</p>
+      <p begin="134.45s" xml:id="p39" end="137.79s">You don&#039;t have to fit into the format</p>
+      <p begin="137.79s" xml:id="p40" end="141.53s">Oh but it&#039;s okay to be different</p>
+      <p begin="141.53s" xml:id="p41" end="143.46s">&#039;Cause baby so am I</p>
+      <p begin="143.46s" xml:id="p42" end="146.7s">So am I so am I so am I I I I I</p>
+      <p begin="146.7s" xml:id="p43" end="147.74s">Ah ah ah</p>
+      <p begin="147.74s" xml:id="p44" end="149.48s">You&#039;re king and you&#039;re queen</p>
+      <p begin="149.48s" xml:id="p45" end="151.53s">You&#039;re strong and you&#039;re weak</p>
+      <p begin="151.53s" xml:id="p46" end="153.5s">You&#039;re bound but so free</p>
+      <p begin="153.5s" xml:id="p47" end="155.1s">Ah ah ah</p>
+      <p begin="155.1s" xml:id="p48" end="156.85s">So come and join me</p>
+      <p begin="156.85s" xml:id="p49" end="158.61s">And call me Harley</p>
+      <p begin="158.61s" xml:id="p50" end="160.86s">And we&#039;ll make a scene</p>
+      <p begin="160.86s" xml:id="p51" end="163.62s">Do you ever feel like a misfit</p>
+      <p begin="163.62s" xml:id="p52" end="167.27s">Everything inside you is dark and twisted</p>
+      <p begin="167.27s" xml:id="p53" end="171.09s">Oh but it&#039;s okay to be different</p>
+      <p begin="171.09s" xml:id="p54" end="172.86s">&#039;Cause baby so am I</p>
+      <p begin="172.86s" xml:id="p55" end="175.37s">So am I so am I so am I</p>
+      <p begin="175.37s" xml:id="p56" end="178.26s">Do you ever feel like an outcast</p>
+      <p begin="178.26s" xml:id="p57" end="181.7s">You don&#039;t have to fit into the format</p>
+      <p begin="181.7s" xml:id="p58" end="185.57s">Oh but it&#039;s okay to be different</p>
+      <p begin="185.57s" xml:id="p59" end="188.45s">&#039;Cause baby so am I</p>
+      <p begin="188.45s" xml:id="p60" end="189.45s">So am I so am I so am I I I I I I so am I so am I I I I I</p>
+    </div>
+  </body>
+</tt>
