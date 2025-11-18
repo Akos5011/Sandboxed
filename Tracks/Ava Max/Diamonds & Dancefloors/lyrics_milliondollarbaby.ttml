@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="17.18s" xml:id="p0" end="20.47s">(She&#039;s a miracle)</p>
+      <p begin="20.47s" xml:id="p1" end="24.8s">(She’s a miracle, oh, oh, oh, ooh)</p>
+      <p begin="24.8s" xml:id="p2" end="27.6s">Diamonds</p>
+      <p begin="27.6s" xml:id="p3" end="31.8s">She turns tears to diamonds, woah-oh</p>
+      <p begin="31.8s" xml:id="p4" end="34.55s">Tryin&#039;</p>
+      <p begin="34.55s" xml:id="p5" end="38.04s">To find that silver linin&#039;, woah-oh-oh</p>
+      <p begin="38.04s" xml:id="p6" end="42.09s">And once in a while, I’ll go walkin&#039; in the twilight</p>
+      <p begin="42.09s" xml:id="p7" end="43.97s">Countin&#039; down to midnight</p>
+      <p begin="43.97s" xml:id="p8" end="47.14s">Close my eyes and wait for her to shine</p>
+      <p begin="47.14s" xml:id="p9" end="49.49s">I&#039;m hidin&#039; in the shadows</p>
+      <p begin="49.49s" xml:id="p10" end="53.17s">Prayin&#039; that she&#039;ll break free</p>
+      <p begin="53.17s" xml:id="p11" end="56.93s">In the dark of the night, she got danger on her mind</p>
+      <p begin="56.93s" xml:id="p12" end="60.76s">She&#039;s a million dollar baby, nobody can explain it</p>
+      <p begin="60.76s" xml:id="p13" end="63.84s">She’s a miracle</p>
+      <p begin="63.84s" xml:id="p14" end="67.68s">She’s a miracle, oh, oh, oh, ooh</p>
+      <p begin="67.68s" xml:id="p15" end="71.37s">She broke out of her chains, turned the fire into rain</p>
+      <p begin="71.37s" xml:id="p16" end="75.13s">She&#039;s a million dollar baby, she bound to drive you crazy</p>
+      <p begin="75.13s" xml:id="p17" end="78.47s">She’s a miracle</p>
+      <p begin="78.47s" xml:id="p18" end="82.61s">She&#039;s a miracle, oh, oh, oh, ooh</p>
+      <p begin="82.61s" xml:id="p19" end="85.3s">Hеart broke, oh-oh</p>
+      <p begin="85.3s" xml:id="p20" end="89.78s">You can&#039;t keep her down though, oh-oh (Ah, ah, ah)</p>
+      <p begin="89.78s" xml:id="p21" end="92.45s">Ice-cold, oh-oh</p>
+      <p begin="92.45s" xml:id="p22" end="95.79s">Shе&#039;s comin’ back to life though, oh-oh-oh</p>
+      <p begin="95.79s" xml:id="p23" end="99.77s">And once in a while, I&#039;ll go walkin&#039; in the twilight</p>
+      <p begin="99.77s" xml:id="p24" end="101.83s">Countin&#039; down to midnight</p>
+      <p begin="101.83s" xml:id="p25" end="104.85s">Close my eyes and wait for her to shine</p>
+      <p begin="104.85s" xml:id="p26" end="107.18s">I&#039;m hidin&#039; in the shadows</p>
+      <p begin="107.18s" xml:id="p27" end="111.14s">Prayin&#039; that she&#039;ll break free</p>
+      <p begin="111.14s" xml:id="p28" end="114.58s">In the dark of the night, she got danger on her mind</p>
+      <p begin="114.58s" xml:id="p29" end="118.49s">She&#039;s a million dollar baby, nobody can explain it</p>
+      <p begin="118.49s" xml:id="p30" end="121.77s">She&#039;s a miracle</p>
+      <p begin="121.77s" xml:id="p31" end="125.48s">She&#039;s a miracle, oh, oh, oh, ooh</p>
+      <p begin="125.48s" xml:id="p32" end="128.93s">She broke out of her chains, turned the fire into rain</p>
+      <p begin="128.93s" xml:id="p33" end="132.82s">She&#039;s a million dollar baby, she bound to drive you crazy</p>
+      <p begin="132.82s" xml:id="p34" end="135.92s">She&#039;s a miracle</p>
+      <p begin="135.92s" xml:id="p35" end="140.59s">She&#039;s a miracle, oh, oh, oh, ooh</p>
+      <p begin="140.59s" xml:id="p36" end="144.18s">Ma-ma-ma-ma-ma, ma-ma-ma-ma-ma, miracle</p>
+      <p begin="144.18s" xml:id="p37" end="147.87s">Ma-ma-ma-ma-ma, ma-ma-ma-ma-ma, miracle</p>
+      <p begin="147.87s" xml:id="p38" end="150.58s">Ma-ma-ma-ma-ma, ma-ma-ma-ma-ma</p>
+      <p begin="150.58s" xml:id="p39" end="154.38s">She&#039;s a miracle, oh, oh, oh, ooh</p>
+      <p begin="154.38s" xml:id="p40" end="157.91s">In the dark of the night, she got danger on her mind</p>
+      <p begin="157.91s" xml:id="p41" end="161.8s">She&#039;s a million dollar baby, nobody can explain it</p>
+      <p begin="161.8s" xml:id="p42" end="165.27s">She&#039;s a miracle</p>
+      <p begin="165.27s" xml:id="p43" end="168.77s">She&#039;s a miracle, oh, oh, oh, ooh (She&#039;s a miracle)</p>
+      <p begin="168.77s" xml:id="p44" end="172.24s">She broke out of her chains, turned the fire into rain</p>
+      <p begin="172.24s" xml:id="p45" end="176.36s">She&#039;s a million dollar baby, she bound to drive you crazy</p>
+      <p begin="176.36s" xml:id="p46" end="179.33s">She&#039;s a miracle (She&#039;s a miracle, yeah-eah)</p>
+      <p begin="179.33s" xml:id="p47" end="184.0s">She&#039;s a miracle, oh, oh, oh, ooh</p>
+      <p begin="184.0s" xml:id="p48" end="187.51s">Ma-ma-ma-ma-ma, ma-ma-ma-ma-ma, miracle</p>
+      <p begin="187.51s" xml:id="p49" end="191.17s">Ma-ma-ma-ma-ma, ma-ma-ma-ma-ma, miracle (Ohh)</p>
+      <p begin="191.17s" xml:id="p50" end="193.66s">Ma-ma-ma-ma-ma, ma-ma-ma-ma-ma (Oh-oh-oh)</p>
+      <p begin="193.66s" xml:id="p51" end="194.66s">She&#039;s a miracle, oh, oh, oh, oohma-ma-ma-ma-ma (Oh-oh-oh)<br />She&#039;s a miracle, oh, oh, oh, ooh</p>
+    </div>
+  </body>
+</tt>
