@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="8.86s" xml:id="p0" end="12.32s">Now he&#039;s thinkin&#039; &#039;bout me every night, oh</p>
+      <p begin="12.32s" xml:id="p1" end="14.56s">Is it that sweet? I guess so</p>
+      <p begin="14.56s" xml:id="p2" end="16.9s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="16.9s" xml:id="p3" end="19.22s">That&#039;s that me espresso</p>
+      <p begin="19.22s" xml:id="p4" end="21.52s">Move it up, down, left, right, oh</p>
+      <p begin="21.52s" xml:id="p5" end="23.81s">Switch it up like Nintendo</p>
+      <p begin="23.81s" xml:id="p6" end="26.15s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="26.15s" xml:id="p7" end="28.37s">That&#039;s that me espresso</p>
+      <p begin="28.73s" xml:id="p8" end="31.08s">I can&#039;t relate</p>
+      <p begin="31.08s" xml:id="p9" end="33.38s">To desperation</p>
+      <p begin="33.38s" xml:id="p10" end="37.99s">My &quot;give a fucks&quot; are on vacation</p>
+      <p begin="37.99s" xml:id="p11" end="40.28s">And I got this one boy</p>
+      <p begin="40.28s" xml:id="p12" end="42.6s">And he won&#039;t stop calling</p>
+      <p begin="42.6s" xml:id="p13" end="44.88s">When they act this way</p>
+      <p begin="44.88s" xml:id="p14" end="46.43s">I know I got &#039;em</p>
+      <p begin="46.6s" xml:id="p15" end="48.96s">Too bad your ex don&#039;t do it for ya</p>
+      <p begin="48.96s" xml:id="p16" end="51.26s">Walked in and dream came trued it for ya</p>
+      <p begin="51.26s" xml:id="p17" end="55.57s">Soft skin and I perfumed it for ya</p>
+      <p begin="55.57s" xml:id="p18" end="57.9s">I know I Mountain Dew it for ya</p>
+      <p begin="57.9s" xml:id="p19" end="60.2s">That morning coffee, brewed it for ya</p>
+      <p begin="60.2s" xml:id="p20" end="62.58s">One touch and I brand newed it for ya</p>
+      <p begin="63.98s" xml:id="p21" end="67.7s">And now he&#039;s thinkin&#039; &#039;bout me every night, oh</p>
+      <p begin="67.7s" xml:id="p22" end="69.93s">Is it that sweet? I guess so</p>
+      <p begin="69.93s" xml:id="p23" end="72.3s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="72.3s" xml:id="p24" end="74.64s">That&#039;s that me espresso</p>
+      <p begin="74.64s" xml:id="p25" end="76.9s">Move it up, down, left, right, oh</p>
+      <p begin="76.9s" xml:id="p26" end="79.2s">Switch it up like Nintendo</p>
+      <p begin="79.2s" xml:id="p27" end="81.5s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="81.5s" xml:id="p28" end="83.61s">That&#039;s that me espresso</p>
+      <p begin="84.15s" xml:id="p29" end="86.11s">Holy shit</p>
+      <p begin="86.11s" xml:id="p30" end="88.28s">Is it that sweet? I guess so</p>
+      <p begin="88.72s" xml:id="p31" end="93.37s">I&#039;m working late &#039;cause I&#039;m a singer</p>
+      <p begin="93.37s" xml:id="p32" end="97.96s">Oh, he looks so cute wrapped &#039;round my finger</p>
+      <p begin="97.96s" xml:id="p33" end="102.62s">My twisted humor make him laugh so often</p>
+      <p begin="102.62s" xml:id="p34" end="106.38s">My honey bee, come and get this pollen</p>
+      <p begin="106.62s" xml:id="p35" end="108.96s">Too bad your ex don&#039;t do it for ya</p>
+      <p begin="108.96s" xml:id="p36" end="111.24s">Walked in and dream came trued it for ya</p>
+      <p begin="111.24s" xml:id="p37" end="115.55s">Soft skin and I perfumed it for ya</p>
+      <p begin="115.55s" xml:id="p38" end="117.88s">I know I Mountain Dew it for ya</p>
+      <p begin="117.88s" xml:id="p39" end="120.2s">That morning coffee, brewed it for ya</p>
+      <p begin="120.2s" xml:id="p40" end="122.59s">One touch and I brand newed it for ya</p>
+      <p begin="124.15s" xml:id="p41" end="127.69s">Now he&#039;s thinkin&#039; &#039;bout me every night, oh</p>
+      <p begin="127.69s" xml:id="p42" end="129.94s">Is it that sweet? I guess so</p>
+      <p begin="129.94s" xml:id="p43" end="132.28s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="132.28s" xml:id="p44" end="134.59s">That&#039;s that me espresso</p>
+      <p begin="134.59s" xml:id="p45" end="136.87s">Move it up, down, left, right, oh</p>
+      <p begin="136.87s" xml:id="p46" end="139.19s">Switch it up like Nintendo</p>
+      <p begin="139.19s" xml:id="p47" end="141.52s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="141.52s" xml:id="p48" end="143.67s">That&#039;s that me espresso</p>
+      <p begin="143.84s" xml:id="p49" end="146.12s">Thinkin&#039; &#039;bout me every night, oh</p>
+      <p begin="146.12s" xml:id="p50" end="148.4s">Is it that sweet? I guess so</p>
+      <p begin="148.4s" xml:id="p51" end="150.77s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="150.77s" xml:id="p52" end="153.08s">That&#039;s that me espresso</p>
+      <p begin="153.08s" xml:id="p53" end="155.32s">Move it up, down, left, right, oh</p>
+      <p begin="155.32s" xml:id="p54" end="157.62s">Switch it up like Nintendo</p>
+      <p begin="157.62s" xml:id="p55" end="159.97s">Say you can&#039;t sleep, baby, I know</p>
+      <p begin="159.97s" xml:id="p56" end="162.04s">That&#039;s that me espresso</p>
+      <p begin="164.62s" xml:id="p57" end="168.03s">Is it that sweet? I guess so</p>
+      <p begin="168.03s" xml:id="p58" end="171.46s">Mmm, that&#039;s that me espresso</p>
+    </div>
+  </body>
+</tt>

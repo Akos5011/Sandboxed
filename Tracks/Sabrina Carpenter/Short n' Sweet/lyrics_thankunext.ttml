@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="8.0s" xml:id="p0" end="10.0s">Thought I&#039;d end up with Sean</p>
+      <p begin="10.0s" xml:id="p1" end="12.0s">But he wasn&#039;t a match</p>
+      <p begin="12.0s" xml:id="p2" end="14.0s">Wrote some songs about Ricky</p>
+      <p begin="14.0s" xml:id="p3" end="16.0s">Now I listen and laugh</p>
+      <p begin="16.0s" xml:id="p4" end="18.0s">Even almost got married</p>
+      <p begin="18.0s" xml:id="p5" end="21.0s">And for Pete, I&#039;m so thankful</p>
+      <p begin="21.0s" xml:id="p6" end="24.0s">Wish I could say, &quot;Thank you&quot; to Malcolm</p>
+      <p begin="24.0s" xml:id="p7" end="26.0s">&#039;Cause he was an angel</p>
+      <p begin="26.0s" xml:id="p8" end="28.0s">One taught me love</p>
+      <p begin="28.0s" xml:id="p9" end="30.0s">One taught me patience</p>
+      <p begin="30.0s" xml:id="p10" end="32.0s">And one taught me pain</p>
+      <p begin="32.0s" xml:id="p11" end="34.0s">Now, I&#039;m so amazing</p>
+      <p begin="34.0s" xml:id="p12" end="36.0s">I&#039;ve loved and I&#039;ve lost</p>
+      <p begin="36.0s" xml:id="p13" end="38.0s">But that&#039;s not what I see</p>
+      <p begin="38.0s" xml:id="p14" end="40.0s">So, look what I got</p>
+      <p begin="40.0s" xml:id="p15" end="42.0s">Look what you taught me</p>
+      <p begin="42.0s" xml:id="p16" end="45.0s">And for that, I say</p>
+      <p begin="45.0s" xml:id="p17" end="47.0s">Thank you, next (Next)</p>
+      <p begin="47.0s" xml:id="p18" end="49.0s">Thank you, next (Next)</p>
+      <p begin="49.0s" xml:id="p19" end="51.0s">Thank you, next</p>
+      <p begin="51.0s" xml:id="p20" end="54.0s">I&#039;m so fuckin&#039; grateful for my ex</p>
+      <p begin="54.0s" xml:id="p21" end="56.0s">Thank you, next (Next)</p>
+      <p begin="56.0s" xml:id="p22" end="58.0s">Thank you, next (Next)</p>
+      <p begin="58.0s" xml:id="p23" end="60.0s">Thank you, next (Next)</p>
+      <p begin="60.0s" xml:id="p24" end="62.0s">I&#039;m so fuckin&#039;—</p>
+      <p begin="62.0s" xml:id="p25" end="64.0s">Spend more time with my friends</p>
+      <p begin="64.0s" xml:id="p26" end="66.0s">I ain&#039;t worried &#039;bout nothin&#039;</p>
+      <p begin="66.0s" xml:id="p27" end="68.0s">Plus, I met someone else</p>
+      <p begin="68.0s" xml:id="p28" end="70.0s">We havin&#039; better discussions</p>
+      <p begin="70.0s" xml:id="p29" end="73.0s">I know they say I move on too fast</p>
+      <p begin="73.0s" xml:id="p30" end="75.0s">But this one gon&#039; last</p>
+      <p begin="75.0s" xml:id="p31" end="77.0s">&#039;Cause her name is Ari</p>
+      <p begin="77.0s" xml:id="p32" end="80.0s">And I&#039;m so good with that (So good with that)</p>
+      <p begin="80.0s" xml:id="p33" end="82.0s">She taught me love (Love)</p>
+      <p begin="82.0s" xml:id="p34" end="84.0s">She taught me patience (Patience)</p>
+      <p begin="84.0s" xml:id="p35" end="86.0s">How she handles pain (Pain)</p>
+      <p begin="86.0s" xml:id="p36" end="88.0s">That shit&#039;s amazing (Yeah, she&#039;s amazing)</p>
+      <p begin="88.0s" xml:id="p37" end="90.0s">I&#039;ve loved and I&#039;ve lost (Yeah, yeah)</p>
+      <p begin="90.0s" xml:id="p38" end="92.0s">But that&#039;s not what I see (Yeah, yeah)</p>
+      <p begin="92.0s" xml:id="p39" end="94.0s">&#039;Cause look what I&#039;ve found (Yeah, yeah)</p>
+      <p begin="94.0s" xml:id="p40" end="99.0s">Ain&#039;t no need for searching, and for that, I say</p>
+      <p begin="99.0s" xml:id="p41" end="101.0s">Thank you, next (Thank you, next)</p>
+      <p begin="101.0s" xml:id="p42" end="103.0s">Thank you, next (Thank you, next)</p>
+      <p begin="103.0s" xml:id="p43" end="105.0s">Thank you, next (Thank you)</p>
+      <p begin="105.0s" xml:id="p44" end="108.0s">I&#039;m so fuckin&#039; grateful for my ex</p>
+      <p begin="108.0s" xml:id="p45" end="110.0s">Thank you, next (Thank you, next)</p>
+      <p begin="110.0s" xml:id="p46" end="112.0s">Thank you, next (Said thank you, next)</p>
+      <p begin="112.0s" xml:id="p47" end="114.0s">Thank you, next (Next)</p>
+      <p begin="114.0s" xml:id="p48" end="117.0s">I&#039;m so fuckin&#039; grateful for my ex</p>
+      <p begin="117.0s" xml:id="p49" end="119.0s">Thank you, next</p>
+      <p begin="119.0s" xml:id="p50" end="121.0s">Thank you, next</p>
+      <p begin="121.0s" xml:id="p51" end="123.0s">Thank you, next</p>
+      <p begin="123.0s" xml:id="p52" end="124.0s">I&#039;m so fucking—</p>
+      <p begin="124.0s" xml:id="p53" end="126.0s">One day I&#039;ll walk down the aisle</p>
+      <p begin="126.0s" xml:id="p54" end="128.0s">Holding hands with my mama</p>
+      <p begin="128.0s" xml:id="p55" end="130.0s">I&#039;ll be thanking my dad</p>
+      <p begin="130.0s" xml:id="p56" end="133.0s">&#039;Cause she grew from the drama</p>
+      <p begin="133.0s" xml:id="p57" end="135.0s">Only wanna do it once, real bad</p>
+      <p begin="135.0s" xml:id="p58" end="137.0s">Gon&#039; make that shit last</p>
+      <p begin="137.0s" xml:id="p59" end="139.0s">God forbid something happens</p>
+      <p begin="139.0s" xml:id="p60" end="142.0s">Least this song is a smash (Song is a smash)</p>
+      <p begin="142.0s" xml:id="p61" end="144.0s">I&#039;ve got so much love (Love)</p>
+      <p begin="144.0s" xml:id="p62" end="146.0s">Got so much patience (Patience)</p>
+      <p begin="146.0s" xml:id="p63" end="148.0s">I&#039;ve learned from the pain (Pain)</p>
+      <p begin="148.0s" xml:id="p64" end="152.0s">I turned out amazing (Turned out amazing)</p>
+      <p begin="152.0s" xml:id="p65" end="154.0s">I&#039;ve loved and I&#039;ve lost (Yeah, yeah)</p>
+      <p begin="154.0s" xml:id="p66" end="156.0s">But that&#039;s not what I see (Yeah, yeah)</p>
+      <p begin="156.0s" xml:id="p67" end="158.0s">&#039;Cause look what I&#039;ve found (Yeah, yeah)</p>
+      <p begin="158.0s" xml:id="p68" end="160.0s">Ain&#039;t no need for searching</p>
+      <p begin="160.0s" xml:id="p69" end="162.0s">And for that, I&#039;ll say</p>
+      <p begin="162.0s" xml:id="p70" end="164.0s">Thank you, next (Thank you, next)</p>
+      <p begin="164.0s" xml:id="p71" end="166.0s">Thank you, next (Thank you, next)</p>
+      <p begin="166.0s" xml:id="p72" end="168.0s">Thank you, next</p>
+      <p begin="168.0s" xml:id="p73" end="171.0s">I&#039;m so fuckin&#039; grateful for my ex</p>
+      <p begin="171.0s" xml:id="p74" end="173.0s">Thank you, next (Thank you, next)</p>
+      <p begin="173.0s" xml:id="p75" end="175.0s">Thank you, next (Said thank you, next)</p>
+      <p begin="175.0s" xml:id="p76" end="177.0s">Thank you, next (Next)</p>
+      <p begin="177.0s" xml:id="p77" end="180.0s">I&#039;m so fuckin&#039; grateful for my ex</p>
+      <p begin="180.0s" xml:id="p78" end="182.0s">Thank you, next</p>
+      <p begin="182.0s" xml:id="p79" end="184.0s">Thank you, next</p>
+      <p begin="184.0s" xml:id="p80" end="186.0s">Thank you, next</p>
+      <p begin="186.0s" xml:id="p81" end="188.0s">Yeah, yee</p>
+      <p begin="188.0s" xml:id="p82" end="190.0s">Thank you, next</p>
+      <p begin="190.0s" xml:id="p83" end="192.0s">Thank you, next</p>
+      <p begin="192.0s" xml:id="p84" end="194.0s">Thank you, next</p>
+      <p begin="194.0s" xml:id="p85" end="195.0s">Yeah, yee</p>
+    </div>
+  </body>
+</tt>
