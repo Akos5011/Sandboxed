@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.51s" xml:id="p0" end="3.61s">Oh, I leave quite an impression</p>
+      <p begin="3.61s" xml:id="p1" end="9.0s">Five feet to be exact</p>
+      <p begin="9.0s" xml:id="p2" end="12.49s">You&#039;re wonderin&#039; why half his clothes went missin&#039;</p>
+      <p begin="12.49s" xml:id="p3" end="15.84s">My body&#039;s where they&#039;re at</p>
+      <p begin="16.45s" xml:id="p4" end="20.66s">Now I&#039;m gone, but you&#039;re still layin&#039;</p>
+      <p begin="20.66s" xml:id="p5" end="24.42s">Next to me, one degree of separation</p>
+      <p begin="24.42s" xml:id="p6" end="29.75s">I heard you&#039;re back together and if that&#039;s true</p>
+      <p begin="29.75s" xml:id="p7" end="34.03s">You&#039;ll just have to taste me when he&#039;s kissin&#039; you</p>
+      <p begin="34.03s" xml:id="p8" end="37.91s">If you want forever, I bet you do</p>
+      <p begin="37.91s" xml:id="p9" end="43.34s">Just know you&#039;ll taste me too</p>
+      <p begin="46.25s" xml:id="p10" end="47.23s">Uh-huh</p>
+      <p begin="47.23s" xml:id="p11" end="50.33s">He pins you down on the carpet</p>
+      <p begin="50.33s" xml:id="p12" end="55.73s">Makes paintings with his tongue</p>
+      <p begin="55.73s" xml:id="p13" end="59.2s">He&#039;s funny now, all his jokes hit different</p>
+      <p begin="59.2s" xml:id="p14" end="62.98s">Guess who he learned that from?</p>
+      <p begin="63.13s" xml:id="p15" end="67.37s">Now I&#039;m gone, but you&#039;re still layin&#039;</p>
+      <p begin="67.37s" xml:id="p16" end="71.11s">Next to me, one degree of separation</p>
+      <p begin="71.11s" xml:id="p17" end="76.44s">I heard you&#039;re back together and if that&#039;s true</p>
+      <p begin="76.44s" xml:id="p18" end="80.72s">You&#039;ll just have to taste me when he&#039;s kissin&#039; you</p>
+      <p begin="80.72s" xml:id="p19" end="84.65s">If you want forever, and I bet you do</p>
+      <p begin="84.65s" xml:id="p20" end="90.1s">Just know you&#039;ll taste me too</p>
+      <p begin="91.7s" xml:id="p21" end="93.91s">La-la-la-la-la-la-la</p>
+      <p begin="97.97s" xml:id="p22" end="102.06s">Every time you close your eyes and feel his lips, you&#039;re feelin&#039; mine</p>
+      <p begin="102.06s" xml:id="p23" end="106.41s">And every time you breathe his air, just know I was already there</p>
+      <p begin="106.41s" xml:id="p24" end="110.51s">You can have him if you like, I&#039;ve been there, done that once or twice</p>
+      <p begin="110.51s" xml:id="p25" end="115.61s">And singin&#039; &#039;bout it don&#039;t mean I care, yeah, I know I&#039;ve been known to share</p>
+      <p begin="118.4s" xml:id="p26" end="123.18s">Well, I heard you&#039;re back together and if that&#039;s true</p>
+      <p begin="123.18s" xml:id="p27" end="127.47s">You&#039;ll just have to taste me when he&#039;s kissin&#039; you</p>
+      <p begin="127.47s" xml:id="p28" end="131.39s">If you want forever, and I bet you do</p>
+      <p begin="131.39s" xml:id="p29" end="137.67s">Just know you&#039;ll taste me too</p>
+      <p begin="138.6s" xml:id="p30" end="147.02s">You&#039;ll just have to taste me when he&#039;s kissin&#039; you, no</p>
+      <p begin="147.02s" xml:id="p31" end="148.61s">Yeah, ah-ah</p>
+      <p begin="148.61s" xml:id="p32" end="153.88s">You&#039;ll just have to taste me when he&#039;s kissin&#039; you</p>
+    </div>
+  </body>
+</tt>
